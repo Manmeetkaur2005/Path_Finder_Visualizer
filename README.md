@@ -13,7 +13,7 @@ A Java-based application that visualizes various pathfinding algorithms (like Di
     *   Dijkstra's Algorithm
     *   A* Search
     *   Breadth-First Search (BFS)
-    *   *   **Real-Time Visualization:** Watch the algorithms explore the grid and find the shortest path in real-time.
+    *  **Real-Time Visualization:** Watch the algorithms explore the grid and find the shortest path in real-time.
 *   **Start & End Points:** Easily set the start and end nodes for the path.
 *   **Clear & Reset:** Reset the grid to clear paths or walls and start over.
 
