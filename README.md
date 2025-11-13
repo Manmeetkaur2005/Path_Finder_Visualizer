@@ -60,6 +60,3 @@ A Java-based application that visualizes various pathfinding algorithms (like Di
 5.  **Reset:**
     *   Click "Clear Path" to remove the visualized path (but keep the walls).
     *   Click "Reset Grid" to clear everything.
-5.  **Reset:**
-    *   Click "Clear Path" to remove the visualized path (but keep the walls).
-    *   Click "Reset Grid" to clear everything.
